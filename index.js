@@ -12,7 +12,7 @@ connect.then(() => {
     console.log('Connected correctly to server');
 
     const newCampsite = new Campsite({
-        name: 'React Lake Campground',
+        name: 'React Lake Campground2',
         description: 'test'
     });
 
